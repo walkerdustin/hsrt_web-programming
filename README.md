@@ -4,9 +4,24 @@ This webshop was created as part of my studies. It is a simple webshop with a lo
 ## Video Presentation of the Project in German
 https://user-images.githubusercontent.com/49081477/235468107-b53c27cc-1857-4c5a-9ded-033b08239b9f.mp4
 
-## Features
-These are the criteria on which the project is graded:
+# Technologies
+- PHP
+- mysql
+- ajax
+- bootstrap
+- w3
+- javasrcipt 
+- phpmailer
 
+## Features
+- authentication is implemented without a library
+- password hashes are stored in the mysql database (no salt)
+- Contactform with phpmailer backend
+- Orderconfirmations via email are automated
+- shoppingcart is stored in the session
+- the counter for how many users are currently online works with ajax and polling (no browser refreh needed)
+
+These are the criteria on which the project is graded:
 1.	 Login page + (display + function)
 2.	 Validate the data before sending it (client side) (function)
 3.	 User registration + (display + function) (prevent double registration!)
@@ -26,13 +41,9 @@ These are the criteria on which the project is graded:
 17.	 User is greeted when logging in with: "Hello Mustermann, you were last online on XX.XX.XXXX"
 18.	 Readability of the website
 
-As an extra, a Linux server with Apache was also set up and made available online with the help of ngrok.io.
+As an extra, a Linux server with Apache was set up and made available online with the help of ngrok.io.
 
-As seen on github.com no graphical tool was used.
 The project was programmed with the code editor VSCode.
-The fatal naming of the variables ... you can also see that little code is copy and paste.
-
-The frameworks Bootstrap and w3 were used.
 
 The design is mostly self-made, and the layout was optimized using css for a responsive design.
 
