@@ -2,7 +2,7 @@
 This webshop was created as part of my studies. It is a simple webshop with a login system, a shopping cart and a checkout. The webshop is written in PHP and uses a MySQL database.
 
 ## Video Presentation of the Project in German
-![Video Presentation in German](presentation_of_the_webshop.mp4)
+https://user-images.githubusercontent.com/49081477/235468107-b53c27cc-1857-4c5a-9ded-033b08239b9f.mp4
 
 ## Features
 These are the criteria on which the project is graded:
